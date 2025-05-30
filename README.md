@@ -13,4 +13,6 @@
 ## 📫 Let’s Connect
 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/yauhenifiyas/)
 
+🛩️ [Telegram](https://t.me/fiyas)
+
 ✉️ evgeniyfiyas@gmail.com
