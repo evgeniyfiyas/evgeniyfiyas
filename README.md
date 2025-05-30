@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🧑‍💻 About
 
-<!--
-**evgeniyfiyas/evgeniyfiyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Senior Software Engineer with over **6 years** of professional experience.
 
-Here are some ideas to get you started:
+💼 Worked on **7+ projects**, growing from Junior to Senior, with 1 year of hands-on **Tech Lead** experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Core stack: .NET (C#), ASP.NET Core, MSSQL, Entity Framework, Dapper, REST APIs.
+
+🧠 Also experienced with: Angular, React, Azure, AWS, Docker, RabbitMQ, Redis.
+
+📄 Here’s my [CV](https://drive.google.com/drive/folders/1iMosiZb_4zdB1WOWUvmFtHIiALaTN2_h?usp=sharing) for more details.
+
+## 📫 Let’s Connect
+🧑‍💼 [LinkedIn](https://www.linkedin.com/in/yauhenifiyas/)
+
+✉️ evgeniyfiyas@gmail.com
